@@ -1,2 +1,3 @@
 # Blambamazon
-Amazon Like Storefront MYSQL
+Amazon Like Storefront Using MYSQL, Inquirer and Node
+![Finished Customer Inquirer](/Screenshots/Finished.png)

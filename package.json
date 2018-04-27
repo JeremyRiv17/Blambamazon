@@ -1,0 +1,23 @@
+{
+  "name": "blambamazon",
+  "version": "1.0.0",
+  "description": "Amazon Like Storefront MYSQL",
+  "main": "Blambamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremyRiv17/Blambamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeremyRiv17/Blambamazon/issues"
+  },
+  "homepage": "https://github.com/JeremyRiv17/Blambamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
