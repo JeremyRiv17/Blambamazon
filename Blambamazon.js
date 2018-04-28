@@ -17,7 +17,7 @@ connection.connect(function(err){
 });
 
 function updateProduct()  {connection.query(
-  `UPDATE products set stock_quantity=${stockleft} WHERE product_id=${itemID+1}`,
+  `UPDATE products set stock_quantity=? WHERE product_id=?`,[stockleft, itemID+1],
     function(err, res) {
 
     }
